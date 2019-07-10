@@ -7,14 +7,14 @@
   display: none;
 }
 
-.main-content.h1 {
-color: #a61a30;
+.main-content {
+ .h1{ 
+    color: #a61a30;
+  }
+ .h2{ 
+    color: #a61a30;
+  }
 }
-'
-.main-content.h2 {
-color: #a61a30;
-}
-
 .site-footer {
   display: none;
 }
