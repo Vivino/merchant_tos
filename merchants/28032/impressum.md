@@ -1,8 +1,8 @@
 # Impressum 
  
-Vivino GmbH
-Agnes-Bernauer-Str. 90
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
+Vivino GmbH . 
+Agnes-Bernauer-Str. 90 . 
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft . 
 D-80687 München . 
 Geschäftsführer: Christopher Tsakalakis
 HRB 103911, Frankfurt am Main
