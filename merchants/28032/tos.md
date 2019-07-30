@@ -6,11 +6,11 @@
  
 Die Adresse lautet:
  
-Vivino GmbH
-Agnes-Bernauer-Str. 90
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-D-80687 München 
-Geschäftsführer: Christopher Tsakalakis
+Vivino GmbH  
+Agnes-Bernauer-Str. 90  
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
+D-80687 München  
+Geschäftsführer: Christopher Tsakalakis  
 HRB 103911, Frankfurt am Main
  
  
@@ -30,12 +30,12 @@ Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr
  
 Bei Bestellungen in unserem Onlineshop kommt der Vertrag zustande mit:
  
-Vivino GmbH
-Agnes-Bernauer-Str. 90
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-D-80687 München 
-Geschäftsführer: Christopher Tsakalakis
-HRB 103911, Frankfurt am Main
+Vivino GmbH  
+Agnes-Bernauer-Str. 90  
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
+D-80687 München  
+Geschäftsführer: Christopher Tsakalakis  
+HRB 103911, Frankfurt am Main  
 
  
  
