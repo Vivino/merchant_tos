@@ -2,16 +2,19 @@
 
 ## 1. Anbieter und Geltungsbereich
 
-1.1 Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie im Schweizer Online-Shop der Vivino GmbH, vertreten durch c/o ECOVIS ws&p ag (nachfolgend: “Vivino Schweiz” genannt) tätigen.
+1.1 Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie im Schweizer Online-Shop der Vivino GmbH, nachfolgend: “Vivino Schweiz” genannt, tätigen.
  
 Die Adresse lautet:
  
 Vivino GmbH
-c/o ECOVIS ws&p ag
-Mühlebachstrasse 2 
-8008 Zürich
+Agnes-Bernauer-Str. 90
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
+D-80687 München 
+Geschäftsführer: Christopher Tsakalakis
+HRB 103911, Frankfurt am Main
  
-Als Geschäftsführer der Vivino GmbH ist Christopher Tsakalakis eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer 103911 registriert. Im Schweizer Handelsregister ist Vivino Schweiz mit der Nummer CHE-418.796.027 geführt.
+ 
+Als Geschäftsführer der Vivino GmbH ist Christopher Tsakalakis eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer 103911 registriert. Im UID-Register des Bundesamt für Statistik BFS ist Vivino Schweiz mit der Nummer CHE-418.796.027 MWST geführt.
  
 Sie erreichen Vivino unter der Telefonnummer +41 61 588 04 71. Für den Anruf können Verbindungsgebühren anfallen, die von Ihrem Telekommunikationsanbieter abhängig sind. 
 Gerne sind wir auch unter der Email: kundenservice.ch@vivino.com für Sie da.
@@ -28,13 +31,12 @@ Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr
 Bei Bestellungen in unserem Onlineshop kommt der Vertrag zustande mit:
  
 Vivino GmbH
-c/o ECOVIS ws&p ag
-Mühlebachstrasse 2 
-8008 Zürich
-Telefon +41 61 588 04 71
-E-Mail: kundenservice.ch@vivino.com
+Agnes-Bernauer-Str. 90
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
+D-80687 München 
 Geschäftsführer: Christopher Tsakalakis
-Handelsregistereintragung: CHE-418.796.027
+HRB 103911, Frankfurt am Main
+
  
  
  
