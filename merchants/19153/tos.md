@@ -1,5 +1,6 @@
 # Vivino - GmbH
 
+
 ## 1. Anbieter und Geltungsbereich
 
 Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie im Online-Shop der Vivino GmbH tätigen.
