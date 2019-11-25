@@ -132,12 +132,10 @@ Ist der Besteller Kaufmann oder juristische Person, richtet sich der Gerichtssta
 
 ## 13. Online-Streitbeilegung
 Die Europäische Kommission stellt unter folgendem Link eine Online-Plattform zur Online-Streitbeilegung zur Verfügung.
+http://ec.europa.eu/odr
 
- http://ec.europa.eu/odr
- 
  ## 14. Salvatorische Klausel
- 
-Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, berührt das nicht die Wirksamkeit und rechtliche Verbindlichkeit der anderen Bestimmungen.
+ Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, berührt das nicht die Wirksamkeit und rechtliche Verbindlichkeit der anderen Bestimmungen.
 
 
 
