@@ -1,5 +1,4 @@
   # FAQ: Vivino - GmbH
-  
   Hier finden Sie Antworten auf häufig gestellte Fragen. Sollte Ihre Frage nicht dabei sein, wenden Sie sich bitte an kundenservice@vivino.com - oder rufen Sie uns an unter 0800-22 41 000. Ihr Anruf ist kostenfrei aus dem deutschen Festnetz und aus deutschen Mobilfunknetzen. Wir helfen Ihnen gerne weiter!
 
 Wie hoch sind die Versandkosten?
