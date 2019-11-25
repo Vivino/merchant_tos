@@ -135,6 +135,7 @@ Die Europäische Kommission stellt unter folgendem Link eine Online-Plattform zu
  http://ec.europa.eu/odr
  
  ## 14. Salvatorische Klausel
+ 
 Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, berührt das nicht die Wirksamkeit und rechtliche Verbindlichkeit der anderen Bestimmungen.
 
 
