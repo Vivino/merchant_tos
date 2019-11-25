@@ -66,5 +66,3 @@ Sie können den Status Ihrer Sendung verfolgen, indem Sie den in der E-Mail zur 
 ## Kann ich eine getätigte Bestellung abändern?
 
 Natürlich, das ist kein Problem, solange Ihre Bestellung noch nicht verschickt wurde. Bitte wenden Sie sich dazu an den Kundenservice, wahlweise per Email an kundenservice@vivino.com oder telefonisch 0800-22 41 000. Ihr Anruf ist kostenfrei aus dem deutschen Festnetz und aus deutschen Mobilfunknetzen.
-
- 
