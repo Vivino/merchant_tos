@@ -71,10 +71,10 @@ Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertr
 Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen beauftragter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
 Um Ihr Widerrufsrecht auszuüben, müssen Sie uns 
 
-Vivino GmbH
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-Christoph-Rapparini-Bogen 27
-D-80639 München
+Vivino GmbH  
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
+Christoph-Rapparini-Bogen 27  
+D-80639 München  
 
 
 Telefon: 0800-22 41 000 (diese Rufnummer ist für den Anrufer aus dem deutschen Festnetz und allen deutschen Mobilfunknetzen kostenfrei)
@@ -90,10 +90,10 @@ Muster-Widerrufs-Formular
 Wenn Sie den Vertrag widerrufen wollen, füllen Sie bitte dieses Formular aus und senden Sie es an uns zurück.
 
 
-Vivino GmbH
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-Christoph-Rapparini-Bogen 27
-D-80639 München
+Vivino GmbH  
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
+Christoph-Rapparini-Bogen 27  
+D-80639 München  
 
 Email: kundenservice@vivino.com
 
