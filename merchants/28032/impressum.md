@@ -1,9 +1,9 @@
 # Impressum 
  
 Vivino GmbH  
-Agnes-Bernauer-Str. 90  
 c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
-D-80687 München  
+Christoph-Rapparini-Bogen 27  
+D-80639 München  
 Geschäftsführer: Christopher Tsakalakis  
 HRB 103911, Frankfurt am Main  
 Telefon: +41 43 505 12 84  
