@@ -7,9 +7,10 @@ Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie
 
 Die Adresse der Vivino GmbH lautet:
 
-Agnes-Bernauer-Str. 90
+Vivino GmbH
 c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-D-80687 München
+Christoph-Rapparini-Bogen 27
+D-80639 München
 
 Als Geschäftsführer ist Christopher Tsakalakis eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer HRB103911 registriert. Unsere Umsatzsteuernummer lautet DE308140858.
 
@@ -71,9 +72,9 @@ Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ih
 Um Ihr Widerrufsrecht auszuüben, müssen Sie uns 
 
 Vivino GmbH
-Agnes-Bernauer-Str. 90
 c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-D-80687 München
+Christoph-Rapparini-Bogen 27
+D-80639 München
 
 
 Telefon: 0800-22 41 000 (diese Rufnummer ist für den Anrufer aus dem deutschen Festnetz und allen deutschen Mobilfunknetzen kostenfrei)
@@ -90,9 +91,9 @@ Wenn Sie den Vertrag widerrufen wollen, füllen Sie bitte dieses Formular aus un
 
 
 Vivino GmbH
-Agnes-Bernauer-Str. 90
 c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
-D-80687 München
+Christoph-Rapparini-Bogen 27
+D-80639 München
 
 Email: kundenservice@vivino.com
 
