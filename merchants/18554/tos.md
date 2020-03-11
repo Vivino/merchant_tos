@@ -1,146 +1,68 @@
-# Vivino - GmbH
+# Vivino - DK
+
+## VIVINO HANDELSBETINGELSER
+
+Senest opdateret: 29. januar 2020
+
+## 1. PRISER PÅ VIVINO.COM
+
+Alle priser er på hjemmesiden er oplyst inklusive moms i danske kroner. Der tages forbehold for eventuelle indtastnings- og opdateringsfejl samt udsolgte varer. Hvis en bestilt vare er udgået af sortimentet, forbeholder vi os retten til at annullere ordren.
+
+## 2. BETALING
+
+Du kan betale med følgende betalingsmidler: Visa/Dankort, MasterCard og Visa. Når bestillingen er gennemført, modtager du en ordrebekræftelse på e-mail. Bekræftelsen er en tilkendegivelse af, at vi har modtaget din ordre og betaling. Skulle der være produkter, vi alligevel ikke kan tilbyde og har du betalt online, gives produktets beløb retur. Vi trækker pengene for købet når varerne bliver afsendt fra vores lager, dog senest 6 dage efter ordreafgivelse.
+
+## 3. LEVERING
+
+Vi leverer udelukkende til adresser i Danmark. Vi kan desværre ikke levere til post- og pakkebokse. Vi opkræver ikke ekstra for levering til ikke-brofaste øer, men leveringen kan tage en dag længere end til andre adresser.
+
+Levering koster 59 kr.
+Ved køb for over 1000 kr er leveringen gratis.
+
+Varen leveres på hverdage i tidsrummet 8-17 med transportøren Danske Fragtmænd til din hoveddør i gadeplan. Levering anses for sket, når du har fået varen udleveret. Erdu ikke hjemme, anses levering for sket efter at buddet har stillet varen på det af dig anviste sted. Varen leveres i dette tilfælde uden kvittering, og du bærer selv ansvaret for varen. Hvis du ikke kan finde en vare, som er leveret uden kvittering, skal du senest to dage efter den planlagte leveringsdato kontakte os, da vi ellers ikke har mulighed for at få supplerende oplysninger fra buddet om leverancens placering.
+
+Ordrer afgivet mandag - torsdag inden 15.30 og fredag inden 14:30 leveres næste hverdag. Ordrer afgivet i weekender leveres efter to hverdage. Hvis vinen skal leveres til en ikke-brofast ø, skal du påregne en dags længere leveringstid.
+
+## 4. RETUR- OG FORTRYDELSESRET
+
+Når du køber vin hos Vivino, yder vi 14 dages fortrydelsesret, gældende fra den dag du modtager din vare. Varen skal returneres til vores lager i Hørning i væsentlig samme stand som ved modtagelse. Vælger du at gøre brug af fortrydelsesretten, skal du selv betale for fragten, når du returnerer varen. Varen skal altid sendes tilbage i forsvarlig emballage. Kontakt Vivino på <tilbud@vivino.com>, hvis du ønsker at returnereen vare, og husk at oplyse dit ordrenummer i din e-mail. Vi refunderer beløbet, der modsvarer det antal flasker, vi har modtaget retur.
+
+## 5. ANNULLERING AF ORDRER
+
+Hvis du ønsker at annullere en ordre inden den afsendes, skal du klikke på ”Annuller ordre” på ordreoversigten senest 25 minutter efter ordren er afgivet. Du kan altid findeordreoversigten ved at klikke på ”Ordrer” under din profil.
+
+## 6. REKLAMATION
+
+Hvis du finder fejl eller mangler i en vin købt i vores netbutik, så kontakt os på <tilbud@vivino.com> og beskriv problemet og husk at notere hvilket ordrenummer, vinenstammer fra. I nogle tilfælde kan der blive bedt om dokumentation for bristen for at vi kan refundere vinen, så lad være med at smide flaske, resterende indhold eller prop væk før du har været i kontakt med os.
+
+## 7. KONTAKT
+
+Hvis du oplever problemer med levering af et vinkøb, skal du kontakte vores fragt hotline på tlf 72 22 49 97 hverdage mellem klokken 9 og 16 eller på <fragt@vivino.com>.
+
+Hvis du kontakter vores fragt hotline så hav dit ordrenummer ved hånden.Du kan komme i kontakt med Vivino på <tilbud@vivino.com> eller på hverdage mellem klokken 10 og 17 på tlf 71 99 24 00. Hvis du kontakter Vivino vedrørende et vinkøb, såhav dit ordrenummer ved hånden. 
+
+Bemærk, at hvis du skal ændre eller annullere en ordre inden den ekspederes af sted, skal du klikke på ”Annuller ordre” på ordreoversigten senest 25 minutter efter ordren er afgivet. 
+
+Der kan ikke skrives meddelelser til Vivino i feltet ” HVIS DU IKKE ER HJEMME...”. Meddelelser i dette felt ses udelukkende af chaufføren, som leverer dine varer, og meddelelsen læses først når chaufføren står på leveringsadressen.
+
+## 8. FAQ OM ANMELDELSER
+
+Luca Maroni
+
+Luca Maroni er en italiensk vinanmelder, som udgiver guiden Annuario dei Migliori Vini Italiani. Luca Maroni anmelder vine på en 99-pointskala (og altså ikke den gængse 100pointskala) hvoraf op til 33 point gives til forholdet mellem pris og kvalitet. Luca Maronis hjemmeside: [www.lucamaroni.com](http://www.lucamaroni.com) (abonnement kræves).
 
 
-## 1. Anbieter und Geltungsbereich
+Robert Parker
 
-Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie im Online-Shop der Vivino GmbH tätigen.
-
-Die Adresse der Vivino GmbH lautet:
-
-Vivino GmbH  
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
-Christoph-Rapparini-Bogen 27  
-D-80639 München  
-
-Als Geschäftsführer ist Christopher Tsakalakis eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer HRB103911 registriert. Unsere Umsatzsteuernummer lautet DE308140858.
-
-Sie erreichen die Vivino GmbH unter der Telefonnummer 0800-22 41 000. Der Anruf dieser Nummer ist kostenfrei aus dem deutschen Festnetz und aus den deutschen Mobilfunknetzen.
-
-Gerne sind wir auch unter der Email kundenservice@vivino.com für Sie da.
-
- 
-
-Sie können unsere Allgemeinen Geschäftsbedingungen unter https://vivino.github.io/merchant_tos/merchants/19153/tos.html abrufen und ausdrucken.
-Durch Aufgabe einer Bestellung an Vivino GmbH erkennen Sie unsere AGBs an. Die Vertragssprache ist deutsch. Unsere Angebote und Leistungen gelten ausschließlich innerhalb Deutschlands. 
-
-## 2. Angebot und Vertragsschluss
-
-Die in unserem Online-Shop aufgeführten Weine stellen eine nicht verbindliche Warenpräsentation dar. Es handelt sich somit nicht um ein rechtlich bindendes Angebot der Vivino GmbH.
-
-Durch Anklicken der Schaltfläche “in den Warenkorb” wird der Wein Ihrem Warenkorb hinzugefügt. Indem Sie die Schaltfläche “Jetzt kaufen” anklicken, geben Sie ein verbindliches Kaufangebot ab.
-
-Ein Kaufvertrag kommt dann zustande, wenn wir ausdrücklich die Annahme Ihres Angebotes erklären oder durch Versand der Ware ohne vorherige ausdrückliche Annahme Ihres Angebotes.
-
-Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr vollendet hat.
-
-## 3. Preise
-
-1. Alle Preise verstehen sich als Bruttopreise ab Lager, d.h. die gesetzliche Mehrwertsteuer von 19% sowie weitere Preisbestandteile sind bereits enthalten. Bei Bestellungen von weniger als 6 Flaschen beliebig sortiert erheben wir eine Versandkostenpauschale von €4,95.
-
-2. Bestellungen ab 6 Flaschen liefern wir versandkostenfrei innerhalb Deutschlands.
-
-3. Es gelten die zum Zeitpunkt Ihrer Bestellung gültigen Preise. Alle vorherigen Preise verlieren ihre Gültigkeit.
-
-4. Unsere Preise beziehen sich - soweit nicht anders angegeben- auf Flaschen mit 750 ml Inhalt.
-
-## 4. Versand und Versandkosten
-
-1. Wir versenden die von Ihnen bestellten Weine innerhalb Deutschlands versandkostenfrei ab 6 Flaschen beliebig sortiert.
-
-2. Bei Bestellungen mit weniger als 6 Flaschen erheben wir eine Versandkostenpauschale von €4,95 pro Bestellung.
-
-## 5. Warenverfügbarkeit
-Unsere Angebote sind in der Regel nur zeitlich befristet verfügbar und auch mengenmäßig begrenzt. Daher ist es nicht auszuschließen, dass ein Produkt vorzeitig ausverkauft ist. Wir bedienen Bestellungen unserer Kunden in der Reihenfolge ihres Eingangs. Grundsätzlich gilt: Nur solange der Vorrat reicht.
-
-## 6. Zahlungsbedingungen
-1. Sie können zwischen den folgenden Zahlungsmethoden wählen: Paypal und Kreditkarte. Wir behalten uns vor, einzelne Zahlungsarten nicht zur Verfügung zu stellen.
-2. Bitte beachten Sie, dass bei der Zahlungsmethode Lastschrift Kosten für Sie anfallen können, falls eine Transaktion wegen nicht vorhandener Deckung Ihres Kontos oder wegen fehlerhafter Eingabe der Bankverbindung zurückgebucht wird.
-3. Im Falle eines Zahlungsverzugs sind sie zur Zahlung der gesetzlichen Verzugszinsen i.H.v. fünf Prozentpunkten über dem jeweils gültigen Basiszinssatzes verpflichtet.
-
-## 7. Lieferung & Eigentumsvorbehalt
-
-1. Wir liefern Ihre Bestellungen- soweit nicht anders angegeben- innerhalb 3-5 Werktagen nach Eingang der Bestellung an die von Ihnen angegeben Adresse aus. Die Auslieferung erfolgt mit einem Logistikdienstleister unserer Wahl.
-
-2. Die Ware bleibt bis zur vollständigen Bezahlung des Kaufpreises unser Eigentum.
-
-## 8. Widerrufsrecht
-Für Endverbraucher, d.h. wenn Sie den Kauf zu überwiegend privaten Zwecken tätigen und er somit weder einer gewerblichen noch selbständigen beruflichen Tätigkeit zuzurechnen ist, gilt die nachfolgend aufgeführte Widerrufsbelehrung
-
-## 9 . Widerrufsbelehrung
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
-Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen beauftragter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns 
-
-Vivino GmbH  
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
-Christoph-Rapparini-Bogen 27  
-D-80639 München  
-
-
-Telefon: 0800-22 41 000 (diese Rufnummer ist für den Anrufer aus dem deutschen Festnetz und allen deutschen Mobilfunknetzen kostenfrei)
-Email: kundenservice@vivino.com
-
-mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine Email) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das untenstehende Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
-
-Zur Wahrung der Widerspruchsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
-
---------------------------------------------------------------------------------------------------------------------------
-
-Muster-Widerrufs-Formular
-Wenn Sie den Vertrag widerrufen wollen, füllen Sie bitte dieses Formular aus und senden Sie es an uns zurück.
-
-
-Vivino GmbH  
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
-Christoph-Rapparini-Bogen 27  
-D-80639 München  
-
-Email: kundenservice@vivino.com
-
-
-Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren.
-
-
-Bestellt am:______________________________
-
-Erhalten am:______________________________
-
-Ihr Name:______________________________
-
-Ihre Anschrift:______________________________
-
-Datum:______________________________
-
-Ihre Unterschrift:______________________________
-
-
-(*) Unzutreffendes bitte streichen
-
---------------------------------------------------------------------------------------------------------------------------
-
-Folgen des Widerrufs
-Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binne vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrages bei uns eingegangen ist. Für die Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir holen die Waren ab. Wir tragen die Kosten der Rücksendung der Waren.Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.
-
-## 10. Gewährleistung
-Wenn Sie Verbraucher sind, erfolgt die Gewährleistung nach den gesetzlichen Bestimmungen.
-
-## 11. Transportschäden
-Sollte Ihre Bestellung mit offensichtlichen Transportschäden angeliefert werden, so reklamieren sie den Schaden direkt beim Zusteller und nehmen Sie bitte umgehend Kontakt mit uns auf.
-
-## 12. Gerichtsstand & Rechtsordnung
-Es gilt das Recht der Bundesrepublik Deutschland. Die Vertragssprache ist deutsch. Das UN-Kaufrecht wird ausgeschlossen.
-Ist der Besteller Kaufmann oder juristische Person, richtet sich der Gerichtsstand nach dem Sitz der Vivino GmbH.
-
-## 13. Online-Streitbeilegung
-Die Europäische Kommission stellt unter folgendem Link eine Online-Plattform zur Online-Streitbeilegung zur Verfügung.
-http://ec.europa.eu/odr
-
- ## 14. Salvatorische Klausel
- Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, berührt das nicht die Wirksamkeit und rechtliche Verbindlichkeit der anderen Bestimmungen.
+Robert Parker er en amerikansk vinskribent, som bl.a. driver siden RobertParker.com. Robert Parker har ansat et halvt dusin medskribenter. Når vi bringer anmeldelser fra Robert Parker’s The Wine Advocate, skriver vi dog kun "Robert Parker". Robert Parkers hjemmeside [www.robertparker.com](http://www.robertparker.com) (abonnement kræves).
 
 
 
 
-München, Oktober 2019
- 
+Vivino Aps<br>
+CVR-nr. 32081193<br>
+Njalsgade 21 G, 1. sal<br>
+2300 København S<br>
+Tlf: 71992400<br>
+<tilbud@vivino.com> 
 
