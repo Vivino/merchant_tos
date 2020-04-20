@@ -14,7 +14,7 @@ Geschäftsführer: Heini Zachariassen
 HRB 103911, Frankfurt am Main
  
  
-Als Geschäftsführer der Vivino GmbH ist Christopher Tsakalakis eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer 103911 registriert. Im UID-Register des Bundesamt für Statistik BFS ist Vivino Schweiz mit der Nummer CHE-418.796.027 MWST geführt.
+Als Geschäftsführer der Vivino GmbH ist Heini Zachariassen eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer 103911 registriert. Im UID-Register des Bundesamt für Statistik BFS ist Vivino Schweiz mit der Nummer CHE-418.796.027 MWST geführt.
  
 Sie erreichen Vivino unter der Telefonnummer +41 43 505 12 84. Für den Anruf können Verbindungsgebühren anfallen, die von Ihrem Telekommunikationsanbieter abhängig sind. 
 Gerne sind wir auch unter der Email: kundenservice.ch@vivino.com für Sie da.
@@ -34,7 +34,7 @@ Vivino GmbH
 c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
 Christoph-Rapparini-Bogen 27  
 D-80639 München  
-Geschäftsführer: Christopher Tsakalakis  
+Geschäftsführer: Heini Zachariassen 
 HRB 103911, Frankfurt am Main  
 
  
