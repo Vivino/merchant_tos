@@ -4,7 +4,7 @@ c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
 Christoph-Rapparini-Bogen 27  
 D-80639 München  
 
-Geschäftsführer: Christopher Tsakalakis
+Geschäftsführer: Heini Zachariassen
 
 Email: 	[kundenservice@vivino.com](mailto:kundenservice@vivino.com)
 
@@ -16,4 +16,4 @@ USt.-Identifikationsnummer: DE308140858
 
  
 
-Inhaltlich Verantwortlicher gemäß §55 Abs. 2 RStV: Christopher Tsakalakis (Anschrift siehe oben)
+Inhaltlich Verantwortlicher gemäß §55 Abs. 2 RStV: Heini Zachariassen (Anschrift siehe oben)
