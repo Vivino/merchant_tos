@@ -9,6 +9,8 @@ WineDirect Marketplace transmits requests to purchase Products received from Con
 By utilizing the Platform, the Consumer represents they are of 21 years of age or older and are legally entitled to take possession of Products in their state and locality.
 
 The following licensed Suppliers offer Products to Consumers using the Platform:
+  
+
 | Winery | License Type | License Number | Address |
 |---|---|---|---|
 | Boisset Family Estates | CA 02 | 02 604022 | 849 ZINFANDEL LN , SAINT HELENA, CA, 94574 |
