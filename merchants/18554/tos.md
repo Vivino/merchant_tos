@@ -6,7 +6,7 @@ Senest opdateret: 29. januar 2020
 
 ## 1. PRISER PÅ VIVINO.COM
 
-Alle priser er på hjemmesiden er oplyst inklusive moms i danske kroner. Der tages forbehold for eventuelle indtastnings- og opdateringsfejl samt udsolgte varer. Hvis en bestilt vare er udgået af sortimentet, forbeholder vi os retten til at annullere ordren.
+Alle priser på hjemmesiden er oplyst inklusive moms i danske kroner. Der tages forbehold for eventuelle indtastnings- og opdateringsfejl samt udsolgte varer. Hvis en bestilt vare er udgået af sortimentet, forbeholder vi os retten til at annullere ordren.
 
 ## 2. BETALING
 
@@ -19,13 +19,13 @@ Vi leverer udelukkende til adresser i Danmark. Vi kan desværre ikke levere til 
 Levering koster 59 kr.
 Ved køb for over 1000 kr er leveringen gratis.
 
-Varen leveres på hverdage i tidsrummet 8-17 med transportøren Danske Fragtmænd til din hoveddør i gadeplan. Levering anses for sket, når du har fået varen udleveret. Erdu ikke hjemme, anses levering for sket efter at buddet har stillet varen på det af dig anviste sted. Varen leveres i dette tilfælde uden kvittering, og du bærer selv ansvaret for varen. Hvis du ikke kan finde en vare, som er leveret uden kvittering, skal du senest to dage efter den planlagte leveringsdato kontakte os, da vi ellers ikke har mulighed for at få supplerende oplysninger fra buddet om leverancens placering.
+Varen leveres på hverdage i tidsrummet 8-17 med transportøren Danske Fragtmænd til din hoveddør i gadeplan. Levering anses for sket, når du har fået varen udleveret. Er du ikke hjemme, anses levering for sket efter at buddet har stillet varen på det af dig anviste sted. Varen leveres i dette tilfælde uden kvittering, og du bærer selv ansvaret for varen. Hvis du ikke kan finde en vare, som er leveret uden kvittering, skal du senest to dage efter den planlagte leveringsdato kontakte os, da vi ellers ikke har mulighed for at få supplerende oplysninger fra buddet om leverancens placering.
 
-Ordrer afgivet mandag - torsdag inden 15.30 og fredag inden 14:30 leveres næste hverdag. Ordrer afgivet i weekender leveres efter to hverdage. Hvis vinen skal leveres til en ikke-brofast ø, skal du påregne en dags længere leveringstid.
+Ordrer afgivet mandag - torsdag inden 15:30 og fredag inden 14:30 leveres næste hverdag. Ordrer afgivet i weekender leveres efter to hverdage. Hvis vinen skal leveres til en ikke-brofast ø, skal du påregne en dags længere leveringstid.
 
 ## 4. RETUR- OG FORTRYDELSESRET
 
-Når du køber vin hos Vivino, yder vi 14 dages fortrydelsesret, gældende fra den dag du modtager din vare. Varen skal returneres til vores lager i Hørning i væsentlig samme stand som ved modtagelse. Vælger du at gøre brug af fortrydelsesretten, skal du selv betale for fragten, når du returnerer varen. Varen skal altid sendes tilbage i forsvarlig emballage. Kontakt Vivino på <tilbud@vivino.com>, hvis du ønsker at returnereen vare, og husk at oplyse dit ordrenummer i din e-mail. Vi refunderer beløbet, der modsvarer det antal flasker, vi har modtaget retur.
+Når du køber vin hos Vivino, yder vi 14 dages fortrydelsesret, gældende fra den dag du modtager din vare. Varen skal returneres til vores lager i Hørning i væsentlig samme stand som ved modtagelse. Vælger du at gøre brug af fortrydelsesretten, skal du selv betale for fragten, når du returnerer varen. Varen skal altid sendes tilbage i forsvarlig emballage. Kontakt Vivino på <dk.orders@vivino.com>, hvis du ønsker at returnereen vare, og husk at oplyse dit ordrenummer i din e-mail. Vi refunderer beløbet, der modsvarer det antal flasker, vi har modtaget retur.
 
 ## 5. ANNULLERING AF ORDRER
 
@@ -33,13 +33,11 @@ Hvis du ønsker at annullere en ordre inden den afsendes, skal du klikke på ”
 
 ## 6. REKLAMATION
 
-Hvis du finder fejl eller mangler i en vin købt i vores netbutik, så kontakt os på <tilbud@vivino.com> og beskriv problemet og husk at notere hvilket ordrenummer, vinenstammer fra. I nogle tilfælde kan der blive bedt om dokumentation for bristen for at vi kan refundere vinen, så lad være med at smide flaske, resterende indhold eller prop væk før du har været i kontakt med os.
+Hvis du finder fejl eller mangler i en vin købt i vores netbutik, så kontakt os på <dk.orders@vivino.com> og beskriv problemet og husk at notere hvilket ordrenummer, vinen stammer fra. I nogle tilfælde kan der blive bedt om dokumentation for bristen for at vi kan refundere vinen, så lad være med at smide flaske, resterende indhold eller prop væk før du har været i kontakt med os.
 
 ## 7. KONTAKT
 
-Hvis du oplever problemer med levering af et vinkøb, skal du kontakte vores fragt hotline på tlf 72 22 49 97 hverdage mellem klokken 9 og 16 eller på <fragt@vivino.com>.
-
-Hvis du kontakter vores fragt hotline så hav dit ordrenummer ved hånden.Du kan komme i kontakt med Vivino på <tilbud@vivino.com> eller på hverdage mellem klokken 10 og 17 på tlf 71 99 24 00. Hvis du kontakter Vivino vedrørende et vinkøb, såhav dit ordrenummer ved hånden. 
+Hvis du oplever problemer vedrørende et vinkøb, kan du kontakte vores support på tlf +45 78 75 08 54 på hverdage mellem kl. 09:00-16:00 eller via email på <dk.orders@vivino.com>. Du bedes venligts have dit ordrenummer klar ved hånden når du kontakter support.
 
 Bemærk, at hvis du skal ændre eller annullere en ordre inden den ekspederes af sted, skal du klikke på ”Annuller ordre” på ordreoversigten senest 25 minutter efter ordren er afgivet. 
 
@@ -61,8 +59,8 @@ Robert Parker er en amerikansk vinskribent, som bl.a. driver siden RobertParker.
 
 Vivino Aps<br>
 CVR-nr. 32081193<br>
-Njalsgade 21 G, 1. sal<br>
+Njalsgade 21 G, 5. - 6. sal<br>
 2300 København S<br>
-Tlf: 71992400<br>
-<tilbud@vivino.com> 
+Tlf: +45 78750854<br>
+<dk.orders@vivino.com> 
 
