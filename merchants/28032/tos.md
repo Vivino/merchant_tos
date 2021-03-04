@@ -17,7 +17,7 @@ HRB 103911, Frankfurt am Main
 Als Geschäftsführer der Vivino GmbH ist Heini Zachariassen eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer 103911 registriert. Im UID-Register des Bundesamt für Statistik BFS ist Vivino Schweiz mit der Nummer CHE-418.796.027 MWST geführt.
  
 Sie erreichen Vivino unter der Telefonnummer +41 43 505 12 84. Für den Anruf können Verbindungsgebühren anfallen, die von Ihrem Telekommunikationsanbieter abhängig sind. 
-Gerne sind wir auch unter der Email: kundenservice.ch@vivino.com für Sie da.
+Gerne sind wir auch unter der Email: <ch.orders@vivino.com> für Sie da.
  
 1.2 Durch Aufgabe einer Bestellung an Vivino Schweiz erkennen Sie unsere AGBs in der derzeit gültigen Fassung an. Die Vertragssprache ist deutsch. Die Angebote und Leistungen von Vivino Schweiz gelten ausschließlich innerhalb der Schweiz und richten sich ausdrücklich und ausschließlich an Private und nicht an gewerbliche Kunden. 
  
