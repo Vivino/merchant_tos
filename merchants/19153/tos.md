@@ -14,9 +14,9 @@ D-80639 München
 
 Als Geschäftsführer ist Heini Zachariassen eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer HRB103911 registriert. Unsere Umsatzsteuernummer lautet DE308140858.
 
-Sie erreichen die Vivino GmbH unter der Telefonnummer 0800-22 41 000. Der Anruf dieser Nummer ist kostenfrei aus dem deutschen Festnetz und aus den deutschen Mobilfunknetzen.
+Sie erreichen die Vivino GmbH unter der Telefonnummer +49 69 77044785. Der Anruf dieser Nummer ist kostenfrei aus dem deutschen Festnetz und aus den deutschen Mobilfunknetzen.
 
-Gerne sind wir auch unter der Email kundenservice@vivino.com für Sie da.
+Gerne sind wir auch unter der Email de.orders@vivino.com für Sie da.
 
  
 
@@ -77,8 +77,8 @@ Christoph-Rapparini-Bogen 27
 D-80639 München  
 
 
-Telefon: 0800-22 41 000 (diese Rufnummer ist für den Anrufer aus dem deutschen Festnetz und allen deutschen Mobilfunknetzen kostenfrei)
-Email: kundenservice@vivino.com
+Telefon: +49 69 77044785 (diese Rufnummer ist für den Anrufer aus dem deutschen Festnetz und allen deutschen Mobilfunknetzen kostenfrei)
+Email: de.orders@vivino.com
 
 mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder eine Email) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das untenstehende Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
 
@@ -95,7 +95,7 @@ c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
 Christoph-Rapparini-Bogen 27  
 D-80639 München  
 
-Email: kundenservice@vivino.com
+Email: de.orders@vivino.com
 
 
 Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren.
