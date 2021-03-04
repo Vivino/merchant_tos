@@ -6,9 +6,9 @@ D-80639 München
 
 Geschäftsführer: Heini Zachariassen
 
-Email: 	[kundenservice@vivino.com](mailto:kundenservice@vivino.com)
+Email: 	<de.orders@vivino.com>
 
-Telefon: 0800-22 41 000 (der Anruf ist kostenfrei aus dem deutschen Festnetz und den deutschen Mobilfunknetzen)
+Telefon: +49 69 77044785 (der Anruf ist kostenfrei aus dem deutschen Festnetz und den deutschen Mobilfunknetzen)
 
 HRB 103911, Amtsgericht Frankfurt am Main
 
