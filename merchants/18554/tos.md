@@ -37,7 +37,7 @@ Hvis du finder fejl eller mangler i en vin købt i vores netbutik, så kontakt o
 
 ## 7. KONTAKT
 
-Hvis du oplever problemer vedrørende et vinkøb, kan du kontakte vores support på tlf +45 78 75 08 54 på hverdage mellem kl. 09:00-16:00 eller via email på <dk.orders@vivino.com>. Du bedes venligst have dit ordrenummer klar ved hånden når du kontakter support.
+Hvis du oplever problemer vedrørende et vinkøb, kan du kontakte vores support på tlf +45 78 75 08 53 på hverdage mellem kl. 09:00-16:00 eller via email på <dk.orders@vivino.com>. Du bedes venligst have dit ordrenummer klar ved hånden når du kontakter support.
 
 Bemærk, at hvis du skal ændre eller annullere en ordre inden den ekspederes af sted, skal du klikke på ”Annuller ordre” på ordreoversigten senest 25 minutter efter ordren er afgivet. 
 
@@ -61,6 +61,6 @@ Vivino Aps<br>
 CVR-nr. 32081193<br>
 Njalsgade 21 G, 5. sal<br>
 2300 København S<br>
-Tlf: +45 78750854<br>
+Tlf: +45 78 75 08 53<br>
 <dk.orders@vivino.com> 
 
