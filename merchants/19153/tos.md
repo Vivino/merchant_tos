@@ -35,9 +35,9 @@ Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr
 
 ## 3. Preise
 
-1. Alle Preise verstehen sich als Bruttopreise ab Lager, d.h. die gesetzliche Mehrwertsteuer von 19% sowie weitere Preisbestandteile sind bereits enthalten. Bei Bestellungen von weniger als 6 Flaschen beliebig sortiert erheben wir eine Versandkostenpauschale von €4,95.
+1. Alle Preise verstehen sich als Bruttopreise ab Lager, d.h. die gesetzliche Mehrwertsteuer von 19% sowie weitere Preisbestandteile sind bereits enthalten. Bei Bestellungen von weniger als 6 Flaschen beliebig sortiert erheben wir eine Versandkostenpauschale von €5,95.
 
-2. Bestellungen ab 6 Flaschen liefern wir versandkostenfrei innerhalb Deutschlands.
+2. Bestellungen ab einem Bestellwert von €80 liefern wir versandkostenfrei innerhalb Deutschlands.
 
 3. Es gelten die zum Zeitpunkt Ihrer Bestellung gültigen Preise. Alle vorherigen Preise verlieren ihre Gültigkeit.
 
@@ -45,9 +45,9 @@ Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr
 
 ## 4. Versand und Versandkosten
 
-1. Wir versenden die von Ihnen bestellten Weine innerhalb Deutschlands versandkostenfrei ab 6 Flaschen beliebig sortiert.
+1. Wir versenden die von Ihnen bestellten Weine innerhalb Deutschlands versandkostenfrei ab einem Bestellwert von €80.
 
-2. Bei Bestellungen mit weniger als 6 Flaschen erheben wir eine Versandkostenpauschale von €4,95 pro Bestellung.
+2. Bei Bestellungen mit einem Bestellwert von weniger als 80€, erheben wir eine Versandkostenpauschale von €5,95 pro Bestellung.
 
 ## 5. Warenverfügbarkeit
 Unsere Angebote sind in der Regel nur zeitlich befristet verfügbar und auch mengenmäßig begrenzt. Daher ist es nicht auszuschließen, dass ein Produkt vorzeitig ausverkauft ist. Wir bedienen Bestellungen unserer Kunden in der Reihenfolge ihres Eingangs. Grundsätzlich gilt: Nur solange der Vorrat reicht.
