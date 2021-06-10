@@ -127,15 +127,18 @@ Wenn Sie Verbraucher sind, erfolgt die Gewährleistung nach den gesetzlichen Bes
 ## 11. Transportschäden
 Sollte Ihre Bestellung mit offensichtlichen Transportschäden angeliefert werden, so reklamieren sie den Schaden direkt beim Zusteller und nehmen Sie bitte umgehend Kontakt mit uns auf.
 
-## 12. Gerichtsstand & Rechtsordnung
+## 12. Nutzung, Verwendung und Erhebung personenbezogener Daten zur werblichen Nutzung
+Wir erheben Ihre Email-Adresse, wenn Sie bei Vivino eine Bestellung aufgeben. Wir verwenden diese Email-Adresse, um Ihnen kaufbezogene Informationen, wie z.B. die Versandbestätigung oder die Sendungsverfolgung zuzuschicken. Darüber hinaus verwenden wir diese Email-Adresse auf Grundlage und im Sinne von § 7 Abs. 3 UWG, um Ihnen Weinangebote zuzuschicken, die Sie interessieren könnten. Sie können der Verwendung der Email-Adresse zu diesem Zweck jederzeit widersprechen, ohne dass Ihnen hierfür andere als die Übermittlungskosten nach Basistarifen entstehen. In jeder Email, die Sie von uns erhalten, haben Sie die Möglichkeit, sich durch einen Klick auf “Newsletter abbestellen” am unteren Ende der Email aus unser Liste auszutragen. Alternativ können Sie den Widerruf auch an unseren Kundenservice richten unter de.orders@vivino.com
+
+## 13. Gerichtsstand & Rechtsordnung
 Es gilt das Recht der Bundesrepublik Deutschland. Die Vertragssprache ist deutsch. Das UN-Kaufrecht wird ausgeschlossen.
 Ist der Besteller Kaufmann oder juristische Person, richtet sich der Gerichtsstand nach dem Sitz der Vivino GmbH.
 
-## 13. Online-Streitbeilegung
+## 14. Online-Streitbeilegung
 Die Europäische Kommission stellt unter folgendem Link eine Online-Plattform zur Online-Streitbeilegung zur Verfügung.
 http://ec.europa.eu/odr
 
-## 14. Salvatorische Klausel
+## 15. Salvatorische Klausel
 Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, berührt das nicht die Wirksamkeit und rechtliche Verbindlichkeit der anderen Bestimmungen.
 
 
