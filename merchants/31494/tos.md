@@ -1,6 +1,6 @@
 **VIVINO OFFERS TERMS & CONDITIONS**
 
-_Updated: 15 July 2021 _
+Updated: 15 July 2021
 
 
 
