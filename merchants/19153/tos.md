@@ -2,26 +2,21 @@
 
 
 ## 1. Anbieter und Geltungsbereich
-
 Die nachfolgend aufgeführten Bedingungen gelten für alle Bestellungen, die Sie im Online-Shop der Vivino GmbH tätigen.
 
 Die Adresse der Vivino GmbH lautet:
 
-Vivino GmbH  
-c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft  
-Christoph-Rapparini-Bogen 27  
-D-80639 München  
+Vivino GmbH
+c/o Ecovis Wirtschaftstreuhand GmbH Wirtschaftsprüfungsgesellschaft
+Christoph-Rapparini-Bogen 27
+D-80639 München
 
 Als Geschäftsführer ist Heini Zachariassen eingetragen. Die Vivino GmbH ist im Handelsregister beim Amtsgericht Frankfurt am Main unter der Nummer HRB103911 registriert. Unsere Umsatzsteuernummer lautet DE308140858.
 
-Sie erreichen die Vivino GmbH unter der Telefonnummer +49 69 77044785. Der Anruf dieser Nummer ist kostenfrei aus dem deutschen Festnetz und aus den deutschen Mobilfunknetzen.
+Sie erreichen die Vivino GmbH unter der Telefonnummer +49 69 77044785. Gerne sind wir auch unter der Email de.orders@vivino.com für Sie da.
 
-Gerne sind wir auch unter der Email de.orders@vivino.com für Sie da.
-
+Sie können unsere Allgemeinen Geschäftsbedingungen unter https://vivino.github.io/merchant_tos/merchants/19153/tos.html abrufen und ausdrucken. Durch Aufgabe einer Bestellung an Vivino GmbH erkennen Sie unsere AGBs an. Die Vertragssprache ist deutsch. Unsere Angebote und Leistungen gelten ausschließlich innerhalb Deutschlands.
  
-
-Sie können unsere Allgemeinen Geschäftsbedingungen unter https://vivino.github.io/merchant_tos/merchants/19153/tos.html abrufen und ausdrucken.
-Durch Aufgabe einer Bestellung an Vivino GmbH erkennen Sie unsere AGBs an. Die Vertragssprache ist deutsch. Unsere Angebote und Leistungen gelten ausschließlich innerhalb Deutschlands. 
 
 ## 2. Angebot und Vertragsschluss
 
@@ -34,14 +29,11 @@ Ein Kaufvertrag kommt dann zustande, wenn wir ausdrücklich die Annahme Ihres An
 Mit dem Absenden der Bestellung bestätigt der Kunde, dass er das 18. Lebensjahr vollendet hat.
 
 ## 3. Preise
-
-1. Alle Preise verstehen sich als Bruttopreise ab Lager, d.h. die gesetzliche Mehrwertsteuer von 19% sowie weitere Preisbestandteile sind bereits enthalten. Bei Bestellungen von weniger als 6 Flaschen beliebig sortiert erheben wir eine Versandkostenpauschale von €5,95.
-
+1. Alle Preise verstehen sich als Bruttopreise ab Lager, d.h. die gesetzliche Mehrwertsteuer von 19% sowie weitere Preisbestandteile sind bereits enthalten.
 2. Bestellungen ab einem Bestellwert von €80 liefern wir versandkostenfrei innerhalb Deutschlands.
-
 3. Es gelten die zum Zeitpunkt Ihrer Bestellung gültigen Preise. Alle vorherigen Preise verlieren ihre Gültigkeit.
-
 4. Unsere Preise beziehen sich - soweit nicht anders angegeben- auf Flaschen mit 750 ml Inhalt.
+5. Für den Fall, dass wir Weine zu einem reduzierten Preis anbieten, bezieht sich die Preisreduzierung auf den UVP. Der UVP ist in diesem Fall dadurch kenntlich gemacht, dass er durchgestrichen dargestellt wird (zum Beispiel: €24.90).
 
 ## 4. Versand und Versandkosten
 
@@ -144,6 +136,6 @@ Sollten eine oder mehrere Regelungen dieser AGB unwirksam sein oder werden, ber�
 
 
 
-München, Oktober 2019
+München, Juni 2022
  
 
