@@ -58,7 +58,4 @@ Updated: 15 July 2021
     27 Hillier Street
 
 
-    Tel: +852 3008 3458
-
-
     hk.orders@vivino.com
